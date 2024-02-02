@@ -1,0 +1,65 @@
+D:\DocumentosTera\3º Semestre\Probabilidade e Estatistica\Cassino\CassinoCraft\CassinoCraft\bin\Debug\CassinoCraft.exe.config
+D:\DocumentosTera\3º Semestre\Probabilidade e Estatistica\Cassino\CassinoCraft\CassinoCraft\bin\Debug\CassinoCraft.exe
+D:\DocumentosTera\3º Semestre\Probabilidade e Estatistica\Cassino\CassinoCraft\CassinoCraft\bin\Debug\CassinoCraft.pdb
+D:\DocumentosTera\3º Semestre\Probabilidade e Estatistica\Cassino\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.csprojAssemblyReference.cache
+D:\DocumentosTera\3º Semestre\Probabilidade e Estatistica\Cassino\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.Form1.resources
+D:\DocumentosTera\3º Semestre\Probabilidade e Estatistica\Cassino\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.Properties.Resources.resources
+D:\DocumentosTera\3º Semestre\Probabilidade e Estatistica\Cassino\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.TelaCassino.resources
+D:\DocumentosTera\3º Semestre\Probabilidade e Estatistica\Cassino\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.csproj.GenerateResource.cache
+D:\DocumentosTera\3º Semestre\Probabilidade e Estatistica\Cassino\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.csproj.CoreCompileInputs.cache
+D:\DocumentosTera\3º Semestre\Probabilidade e Estatistica\Cassino\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.exe
+D:\DocumentosTera\3º Semestre\Probabilidade e Estatistica\Cassino\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.pdb
+D:\DocumentosTera\3º Semestre\Probabilidade e Estatistica\Cassino\CassinoCraft\CassinoCraft\bin\Debug\Newtonsoft.Json.dll
+D:\DocumentosTera\3º Semestre\Probabilidade e Estatistica\Cassino\CassinoCraft\CassinoCraft\bin\Debug\Newtonsoft.Json.xml
+D:\DocumentosTera\3º Semestre\Probabilidade e Estatistica\Cassino\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.TelaJogador.resources
+D:\DocumentosTera\3º Semestre\Probabilidade e Estatistica\Cassino\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.csproj.CopyComplete
+C:\Users\T-Gamer\Desktop\CassinoCraft\CassinoCraft\CassinoCraft\bin\Debug\CassinoCraft.exe.config
+C:\Users\T-Gamer\Desktop\CassinoCraft\CassinoCraft\CassinoCraft\bin\Debug\CassinoCraft.exe
+C:\Users\T-Gamer\Desktop\CassinoCraft\CassinoCraft\CassinoCraft\bin\Debug\CassinoCraft.pdb
+C:\Users\T-Gamer\Desktop\CassinoCraft\CassinoCraft\CassinoCraft\bin\Debug\Newtonsoft.Json.dll
+C:\Users\T-Gamer\Desktop\CassinoCraft\CassinoCraft\CassinoCraft\bin\Debug\Newtonsoft.Json.xml
+C:\Users\T-Gamer\Desktop\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.frCassino.resources
+C:\Users\T-Gamer\Desktop\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.frLogin.resources
+C:\Users\T-Gamer\Desktop\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.csproj.CopyComplete
+C:\Users\T-Gamer\Desktop\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.exe
+C:\Users\T-Gamer\Desktop\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.pdb
+C:\Users\T-Gamer\Desktop\CassinoCraft\CassinoCraft\CassinoCraft\bin\Debug\Interop.WMPLib.dll
+C:\Users\T-Gamer\Desktop\CassinoCraft\CassinoCraft\CassinoCraft\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\T-Gamer\Desktop\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\Interop.WMPLib.dll
+C:\Users\T-Gamer\Desktop\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\T-Gamer\Desktop\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.csproj.ResolveComReference.cache
+C:\Users\T-Gamer\Desktop\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.frMenuInicial.resources
+C:\Users\T-Gamer\Desktop\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.frOpcoes.resources
+C:\Users\T-Gamer\Desktop\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.frSobre.resources
+C:\Users\T-Gamer\Desktop\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.frCalculos.resources
+C:\Users\T-Gamer\Desktop\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.frPontuacoes.resources
+C:\Users\T-Gamer\Desktop\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.frTutorial.resources
+C:\Users\Positivo\Documents\Matheus\EC3\P.O.O\CassinoCraft\CassinoCraft\CassinoCraft\CassinoCraft\bin\Debug\CassinoCraft.exe.config
+C:\Users\Positivo\Documents\Matheus\EC3\P.O.O\CassinoCraft\CassinoCraft\CassinoCraft\CassinoCraft\bin\Debug\CassinoCraft.exe
+C:\Users\Positivo\Documents\Matheus\EC3\P.O.O\CassinoCraft\CassinoCraft\CassinoCraft\CassinoCraft\bin\Debug\CassinoCraft.pdb
+C:\Users\Positivo\Documents\Matheus\EC3\P.O.O\CassinoCraft\CassinoCraft\CassinoCraft\CassinoCraft\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Positivo\Documents\Matheus\EC3\P.O.O\CassinoCraft\CassinoCraft\CassinoCraft\CassinoCraft\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Positivo\Documents\Matheus\EC3\P.O.O\CassinoCraft\CassinoCraft\CassinoCraft\CassinoCraft\bin\Debug\Interop.WMPLib.dll
+C:\Users\Positivo\Documents\Matheus\EC3\P.O.O\CassinoCraft\CassinoCraft\CassinoCraft\CassinoCraft\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Positivo\Documents\Matheus\EC3\P.O.O\CassinoCraft\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.csprojAssemblyReference.cache
+C:\Users\Positivo\Documents\Matheus\EC3\P.O.O\CassinoCraft\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\Interop.WMPLib.dll
+C:\Users\Positivo\Documents\Matheus\EC3\P.O.O\CassinoCraft\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Positivo\Documents\Matheus\EC3\P.O.O\CassinoCraft\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.csproj.ResolveComReference.cache
+C:\Users\Positivo\Documents\Matheus\EC3\P.O.O\CassinoCraft\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.frCalculos.resources
+C:\Users\Positivo\Documents\Matheus\EC3\P.O.O\CassinoCraft\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.frMenuInicial.resources
+C:\Users\Positivo\Documents\Matheus\EC3\P.O.O\CassinoCraft\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.frOpcoes.resources
+C:\Users\Positivo\Documents\Matheus\EC3\P.O.O\CassinoCraft\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.frPontuacoes.resources
+C:\Users\Positivo\Documents\Matheus\EC3\P.O.O\CassinoCraft\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.frSobre.resources
+C:\Users\Positivo\Documents\Matheus\EC3\P.O.O\CassinoCraft\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.frTutorial.resources
+C:\Users\Positivo\Documents\Matheus\EC3\P.O.O\CassinoCraft\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.Properties.Resources.resources
+C:\Users\Positivo\Documents\Matheus\EC3\P.O.O\CassinoCraft\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.frCassino.resources
+C:\Users\Positivo\Documents\Matheus\EC3\P.O.O\CassinoCraft\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.frLogin.resources
+C:\Users\Positivo\Documents\Matheus\EC3\P.O.O\CassinoCraft\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.csproj.GenerateResource.cache
+C:\Users\Positivo\Documents\Matheus\EC3\P.O.O\CassinoCraft\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.csproj.CoreCompileInputs.cache
+C:\Users\Positivo\Documents\Matheus\EC3\P.O.O\CassinoCraft\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.csproj.CopyComplete
+C:\Users\Positivo\Documents\Matheus\EC3\P.O.O\CassinoCraft\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.exe
+C:\Users\Positivo\Documents\Matheus\EC3\P.O.O\CassinoCraft\CassinoCraft\CassinoCraft\CassinoCraft\obj\Debug\CassinoCraft.pdb
